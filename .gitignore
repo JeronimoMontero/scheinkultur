@@ -328,3 +328,5 @@ scheinkultur/media/
 *.sqlite
 *.sqlite3
 
+# pycharm
+.idea
